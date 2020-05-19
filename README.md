@@ -19,3 +19,7 @@ This is a python notebook. It is divided into the following sections:
 
 ## Result:
 This is the first version of this notebook, that includes visualisation and feature engineering, as well as testing different models. So far, I have achieved an accuracy of 79.425%.
+
+## References and acknowledgement:
+1. Kaggle
+2. https://www.kaggle.com/celineterranova/first-ml-learning-project-titanic-data
